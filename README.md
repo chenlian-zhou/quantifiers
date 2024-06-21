@@ -9,6 +9,7 @@
 ##
 ### 2023
 1. Pragmatic Reasoning Unlocks Quantifier Semantics for Foundation Models (https://arxiv.org/pdf/2311.04659)
+Github: https://github.com/Nativeatom/PRESQUE
 
 ## 作者
 
